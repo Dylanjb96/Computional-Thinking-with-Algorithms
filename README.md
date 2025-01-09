@@ -73,7 +73,7 @@ The program outputs the performance comparison table directly to the console.
 
 ## Customization
 
-1. **Modifying Input Sizes**
+1. **Modifying Input Sizes**:
 Edit the inputSizes array in the main method:
 ```java
 int[] inputSizes = {100, 250, 500, 750, 1000, 1250, 2500, 3750, 5000, 6250, 7500, 8750, 10000};
@@ -84,7 +84,7 @@ Modify the numRuns variable in the main method
 ```java
 int numRuns = 10;
 ```
-3. **Adding More Algorithms**
+3. **Adding More Algorithms**:
 - Implement your custom sorting algorithm as a static method.
 - Add it to the switch-case in the main method.
 
