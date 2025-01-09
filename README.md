@@ -23,7 +23,7 @@ This Java program benchmarks the performance of various sorting algorithms on ra
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [How to Run](#how-to-run)
-- [Results](#results)
+- [Customization](#customization)
 
 ---
 
